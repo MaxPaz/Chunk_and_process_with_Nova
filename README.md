@@ -18,8 +18,6 @@ This demo creates a tall webpage screenshot (50,000px height) and processes it w
 ## Files
 
 - `chunk_and_process_with_nova.py` - Main demo script
-- `test_full_image.py` - Tests image size limits
-- `create_long_web_screenshot.py` - Alternative image generator
 - `requirements.txt` - Python dependencies
 
 ## Setup
@@ -47,11 +45,6 @@ This demo creates a tall webpage screenshot (50,000px height) and processes it w
 Run the main demo:
 ```bash
 python chunk_and_process_with_nova.py
-```
-
-Test image size limits:
-```bash
-python test_full_image.py
 ```
 
 ## Output
